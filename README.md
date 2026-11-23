@@ -1,8 +1,8 @@
 # One-Star Review of Something Essential
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/c/u-0xb3e689-one-star-review-of-something-essential-c7234629)
-[![rank](https://img.shields.io/badge/rank-pending-lightgrey)](https://make.fun/c/u-0xb3e689-one-star-review-of-something-essential-c7234629)
-[![reward](https://img.shields.io/badge/reward-%245%20(5%20x%20%241)-green)](https://make.fun/c/u-0xb3e689-one-star-review-of-something-essential-c7234629)
+[![make.fun · u-0xb3e689-one-star-review-of-something-essential-c7234629](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629.svg)](https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-one-star-review-of-something-essential-c7234629)
+[![rank](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629/Azet17/makefun-u-0xb3e689-one-star-review-of-something-essential-c7234629/rank.svg)](https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-one-star-review-of-something-essential-c7234629)
+[![reward](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629/Azet17/makefun-u-0xb3e689-one-star-review-of-something-essential-c7234629/reward.svg)](https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629?utm_source=github&utm_medium=readme&utm_campaign=u-0xb3e689-one-star-review-of-something-essential-c7234629)
 
 Entry for the make.fun bounty [One-Star Review of Something Essential](https://make.fun/c/u-0xb3e689-one-star-review-of-something-essential-c7234629) — repo `Azet17/makefun-u-0xb3e689-one-star-review-of-something-essential-c7234629`.
 
